@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FlatLaf-3.4" type="kotlin.js">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/FlatLaf-3.4.1" />
+    </SOURCES>
+  </library>
+</component>

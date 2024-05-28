@@ -1,0 +1,24 @@
+% D'ÉTUDIANTS PAR VILLE
+--------------------------------------
+Bruxelles - 11
+Liege - 11
+Namur - 44
+Charleroi - 0
+Arlon - 33
+
+% D'ÉTUDIANTS PAR SECTION
+--------------------------------------
+A - 56
+B - 11
+C - 11
+D - 0
+E - 22
+
+% DE GENRE PAR SECTION
+--------------------------------------
+♂                               ♀
+80                              20
+100                             0
+100                             0
+0                               0
+50                              50
