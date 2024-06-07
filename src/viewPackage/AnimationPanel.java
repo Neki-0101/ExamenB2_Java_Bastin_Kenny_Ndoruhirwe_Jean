@@ -1,7 +1,5 @@
 package viewPackage;
 
-import modelPackage.AnimationThread;
-
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;

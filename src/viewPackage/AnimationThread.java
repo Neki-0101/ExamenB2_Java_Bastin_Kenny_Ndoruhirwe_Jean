@@ -1,6 +1,4 @@
-package modelPackage;
-
-import viewPackage.AnimationPanel;
+package viewPackage;
 
 public class AnimationThread extends Thread {
 
